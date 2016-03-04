@@ -1,15 +1,15 @@
 {
-  "name": "goldpr",
-  "description": "GoldPR",
+  "name": "sanfeed",
+  "description": "TBD",
   "main": "index.html",
   "authors": [
     "Kevin Olson"
   ],
   "license": "ISC",
   "keywords": [
-    "goldpr"
+    "sanfeed"
   ],
-  "homepage": "https://github.com/acidjazz/goldpr",
+  "homepage": "https://github.com/acidjazz/sanfeed",
   "moduleType": [],
   "ignore": [
     "**/.*",
