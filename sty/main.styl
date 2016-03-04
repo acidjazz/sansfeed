@@ -1,0 +1,23 @@
+
+vendor-prefixes ?= webkit moz o ms official
+
+@import '/inc/mixins'
+@import guide
+@import '/inc/*'
+
+.clear
+  clearfix()
+
+html, body
+  margin 0
+  padding 0
+
+body
+  margin 0
+  padding 0
+  background-color: c.white1
+  color: c.black1
+  font: f.copy1
+
+// pages
+@import index
